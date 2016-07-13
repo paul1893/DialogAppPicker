@@ -10,7 +10,7 @@ PBDialogAppPicker is a dialog view which enable you to easily pick an app or a s
 
 With Gradle simply add to your build.gradle
 ```sh
-compile 'com.thefrenchtouch:pbdialogapppicker'
+compile 'com.thefrenchtouch.lib:pbdialogapppicker:1.0.0'
 ```
 or  Copy paste the pbdialogapppicker folder on your project
 ## How to use
