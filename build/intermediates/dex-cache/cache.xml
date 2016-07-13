@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Paul/Documents/Soft_in_development/AndroidStudioProjects/DialogAppPicker/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/Paul/Documents/Soft_in_development/AndroidStudioProjects/DialogAppPicker/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_b6df1c1b36dd70cca7b893fda0a953c5134f3f63/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Paul/Documents/Soft_in_development/AndroidStudioProjects/DialogAppPicker/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/Paul/Documents/Soft_in_development/AndroidStudioProjects/DialogAppPicker/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_80dd4289e6889280d579b9514802832a451d8d55/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Paul/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/Paul/Documents/Soft_in_development/AndroidStudioProjects/DialogAppPicker/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_87cb598a70b06dc98cf1b8a9cb486af45cbd223e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Paul/Documents/Soft_in_development/AndroidStudioProjects/DialogAppPicker/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/Paul/Documents/Soft_in_development/AndroidStudioProjects/DialogAppPicker/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_86dd57ffedf4c6230a724c534d82b6afc6f942cd/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Paul/Documents/Soft_in_development/AndroidStudioProjects/DialogAppPicker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/Paul/Documents/Soft_in_development/AndroidStudioProjects/DialogAppPicker/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_238a0059d1ca77f30a89f66e27d8369ab002ba1b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Paul/Documents/Soft_in_development/AndroidStudioProjects/DialogAppPicker/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7fe4cb120a6b51130d1b72e5d13039aebd046b22">
+        <dex dex="/Users/Paul/Documents/Soft_in_development/AndroidStudioProjects/DialogAppPicker/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_43133a4ac494d3daa792f3c934edb0d6a1620d77/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Paul/Documents/Soft_in_development/AndroidStudioProjects/DialogAppPicker/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/Paul/Documents/Soft_in_development/AndroidStudioProjects/DialogAppPicker/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_f5aac00eb5e426859e9674e6fa4809ae453c0762/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Paul/Documents/Soft_in_development/AndroidStudioProjects/DialogAppPicker/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2b355fcf15a64dd3c311e736a10bcd3e51d2c241">
+        <dex dex="/Users/Paul/Documents/Soft_in_development/AndroidStudioProjects/DialogAppPicker/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ded4e439f85a925e7ec7b051d32f2987e37138a5/classes.dex" />
+    </item>
+
+</items>

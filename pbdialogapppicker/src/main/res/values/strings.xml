@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DialogAppPicker</string>
+
+    <string name="applications">Applications</string>
+    <string name="shortcuts">Shortcuts</string>
+    <string name="search">Search</string>
+    <string name="action_settings">Settings</string>
+</resources>
